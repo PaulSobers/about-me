@@ -1,0 +1,33 @@
+h1{
+    color:purple;
+    font-family:cursive;
+    font-size:30px;
+}
+body{
+    border-style:solid;
+}
+.nagivation{
+    color:blue;
+    font-family:italic;
+    font-size:40px;
+}
+ul{
+    color:green;
+    font-family:arial;
+}
+li{
+    color:gray;
+    font-family:impact;
+}
+li a {
+    color:orange;
+    font-size:30px;
+}
+
+p {
+ color: red;
+ font: Bold;
+ font-size: 25px;
+ text-align:center;
+}
+
